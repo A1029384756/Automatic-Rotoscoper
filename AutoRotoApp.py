@@ -14,7 +14,6 @@ from PIL import Image
 import torch
 import torchvision.transforms as T
 from torchvision import models
-import pkg_resources.py2_warn
 
 
 fcn = None
